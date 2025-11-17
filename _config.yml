@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: "op_pack – Datapack para Minecraft Java"
+description: "Guía completa del datapack op_pack (Java 1.21.x)."
+markdown: kramdown
